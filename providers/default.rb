@@ -34,7 +34,7 @@ def create_moodle_instance
     variables(
       :server_name => new_resource.server_name,
       :web_root => new_resource.web_root,
-      :dbsocket => new_resource.db_socket
+      :dbsocket => new_resource.dbsocket
     )
   end
 
