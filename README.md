@@ -16,6 +16,9 @@ moodle "/var/www/moodle" do
 end
 ```
 
+You are responsible for making sure the webroot ("/var/www/moodle" in this example)
+is filled.
+
 ## Contributing
 
 1. Fork the repository on Github
