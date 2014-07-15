@@ -1,6 +1,6 @@
 name             'moodle'
 maintainer       'Oregon State University'
-maintainer_email 'systems@osuosl.org'
+maintainer_email 'cookbooks@osuosl.org'
 license          'Apache 2.0'
 description      'Installs/Configures moodle'
 long_description 'Installs/Configures moodle'
