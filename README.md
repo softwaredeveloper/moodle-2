@@ -47,4 +47,4 @@ the [resource definition](resources/default.rb)
 
 ## License and Authors
 
-Author:: Oregon State University (<cookbooks@osuosl.org>)
+Author:: Oregon State University (<chef@osuosl.org>)
