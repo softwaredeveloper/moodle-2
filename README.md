@@ -14,6 +14,10 @@ The Moodle cookbook does not have any attributes of its own, but it does set a
 few attributes for the nginx and php-fpm cookbooks in order to make them work
 smoothly.
 
+## Support
+
+https://www.phpfreelanceprogrammer.com/programming-moodle.html
+
 ## Usage
 
 ```
